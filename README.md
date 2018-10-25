@@ -5,7 +5,7 @@ Este repositório contém todos os arquivos necessários para a criação e conc
 
 O aplicativo foi feito usando a plataforma [MIT App Inventor](http://appinventor.mit.edu/explore/).
 
-Este aplicativo foi feito de acordo com os requisitos das professoras Maria **Claudia de Castro** e **Mayara de Souza**.
+Este aplicativo foi feito de acordo com os requisitos das professoras Maria **Claudia de Castro** e **Mayara de Sousa**.
 
 ---
 
