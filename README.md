@@ -9,10 +9,11 @@ Este aplicativo foi feito de acordo com os requisitos das professoras Maria **Cl
 
 **Time**:
 Matheus Henrique Muller
+Layza Cristini
 Matheus
 Emanuella
 Matheus
-Layza Cristini
+
 
 
 ---
@@ -31,7 +32,7 @@ Para instalar este aplicativo você precisa:
 
 2. Normalmente os dispositivos android são configurados para instalar apenas aplicativos por meio da Play Store. Você precisa desativar esta configuração para instalar o treasure-hunt. Para isso vá em configurações/xxx/xxx/xxx e desative a opção.
 
-3. Vá no seu navegador de arquivos e clique em cima do .apk
+3. Vá no seu navegador de arquivos e clique em cima do arquivo .apk.
 
 - [Requisitos do Aplicativo](#requisitos-do-aplicativo)
 - [Instalação](#instalacao)

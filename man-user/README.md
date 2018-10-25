@@ -7,7 +7,6 @@
 - [Spoilers](#spoilers)
 - [Agradecimentos](#agradecimentos)
 
-
 ---
 
 ## Instalando o App
@@ -38,9 +37,9 @@ Veja por sua conta em risco!
 <details>
 <summary>Clique aqui para ver as respostas!</summary>
 <br>
-Resposta 1
-Resposta 2
-Resposta 3
+Resposta 1  
+Resposta 2  
+Resposta 3  
 </details>
 
 ## Agradecimentos
