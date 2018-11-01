@@ -1,5 +1,15 @@
 # Caça ao Tesouro
 
+- [Requisitos do Aplicativo](#requisitos-do-aplicativo)
+- [Instalação](#instalacao)
+- [Protótipo](#prototipo)
+- [Mapas e Pontos Cardeais](#mapas-e-pontos-cardeais)
+- [Programação](#programacao)
+
+---
+
+[Link para manual](man/dev/README.md)
+
 Projeto final da disciplina PJI29001.
 Este repositório contém todos os arquivos necessários para a criação e conclusão do **aplicativo treasure-hunt**.
 
@@ -34,12 +44,6 @@ Para instalar este aplicativo você precisa:
 
 3. Vá no seu navegador de arquivos e clique em cima do arquivo .apk.
 
-- [Requisitos do Aplicativo](#requisitos-do-aplicativo)
-- [Instalação](#instalacao)
-- [Protótipo](#prototipo)
-- [Mapas e Pontos Cardeais](#mapas-e-pontos-cardeais)
-- [Programação](#programacao)
----
 
 ## Protótipo
 
