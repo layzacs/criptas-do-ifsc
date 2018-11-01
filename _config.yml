@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 
+
+show_downloads: true
 github:
   zip_url: http://example.com/download.zip
-  another_url: another value
+  another_url: https://github.com/PJI29001/treasure-hunt/blob/master/man-dev/README.md
