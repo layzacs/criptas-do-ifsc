@@ -1,6 +1,6 @@
 # Manual do Usuário - CRIPTAS DO IFSC
 
-![Criptas do IFSC Logo](https://github.com/PJI29001/treasure-hunt/blob/master/img/logo-criptas-do-ifsc.png | width=100)
+![Criptas do IFSC Logo](https://github.com/PJI29001/treasure-hunt/blob/master/img/logo-criptas-do-ifsc-r.png)
 
  Olá Usuário! Nesta página você verá como instalar, jogar e também as respostas do App Criptas do IFSC. Vamos lá!
 
