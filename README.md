@@ -1,4 +1,6 @@
-# Caça ao Tesouro
+# Criptas do IFSC
+
+![Criptas do IFSC - Logo](img/logo-criptas-do-ifsc.png)
 
 - [Requisitos do Aplicativo](#requisitos-do-aplicativo)
 - [Instalação](#instalacao)
