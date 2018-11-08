@@ -1,0 +1,14 @@
+# Project information
+site_name: 'Criptas do IFSC'
+theme: mkdocs
+site_description: 'App'
+site_author: 'Grupo 1'
+
+# Repository
+repo_name: 'gh-pages'
+repo_url: 'https://github.com/PJI29001/treasure-hunt/tree/gh-pages'
+
+pages:
+  - Home: README.md
+  - Manual do Usuário: 'man-user/README.md'
+  - Manual do Desenvolvedor: 'man-dev/README.md'
