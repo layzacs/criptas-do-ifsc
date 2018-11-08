@@ -50,7 +50,7 @@ Veja por sua conta em risco!
 <br>
 
 **Fase 1**  
-Chegando ao paraíso de tijolos á vista, antes mesmo de passar a guarita, cuidado para não tropeçar nas cinzas! As árvores em volta já ouviram tanta fofoca que perderam as folhas... Muitos sentam aqui, enquanto a fumaça sobe.   
+Chegando ao paraíso de tijolos á vista, antes mesmo de passar a guarita, cuidado para não tropeçar nas chepas! As árvores em volta já ouviram tanta fofoca que perderam as folhas... Muitos sentam aqui, enquanto a fumaça sobe.   
 Latitude: -27.6083  
 Longitude: -48.6331   
 Enigma 1: a  
