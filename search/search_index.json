@@ -1,0 +1,79 @@
+{
+    "docs": [
+        {
+            "location": "/README/",
+            "text": "Criptas do IFSC\n\n\n\n\n\n\nRequisitos do Aplicativo\n\n\nInstala\u00e7\u00e3o\n\n\nProt\u00f3tipo\n\n\nMapas e Pontos Cardeais\n\n\nPrograma\u00e7\u00e3o\n\n\n\n\n\n\nLink para manual\n\n\nProjeto final da disciplina PJI29001.\nEste reposit\u00f3rio cont\u00e9m todos os arquivos necess\u00e1rios para a cria\u00e7\u00e3o e conclus\u00e3o do \naplicativo treasure-hunt\n.\n\n\nO aplicativo foi feito usando a plataforma \nMIT App Inventor\n.\n\n\nEste aplicativo foi feito de acordo com os requisitos das professoras Maria \nClaudia de Castro\n e \nMayara de Sousa\n.\n\n\nTime\n:\nMatheus Henrique Muller\nLayza Cristini\nMatheus\nEmanuella\nMatheus\n\n\n\n\nRequisitos do Aplicativo\n\n\nPara instalar este aplicativo voc\u00ea precisa:\n\n\n\n\nUm dispositivo android x.x.x ou maior.\n\n\nx espa\u00e7o dispon\u00edvel no seu dispositivo\n\n\nDesabilitar, nas configura\u00e7\u00f5es do dispositivo, a op\u00e7\u00e3o de aplicativos apenas da Play Store.\n\n\n\n\nInstala\u00e7\u00e3o\n\n\n\n\n\n\nFa\u00e7a download, no seu dispositivo Android, do arquivo .apk contido neste reposit\u00f3rio.\n\n\n\n\n\n\nNormalmente os dispositivos android s\u00e3o configurados para instalar apenas aplicativos por meio da Play Store. Voc\u00ea precisa desativar esta configura\u00e7\u00e3o para instalar o treasure-hunt. Para isso v\u00e1 em configura\u00e7\u00f5es/xxx/xxx/xxx e desative a op\u00e7\u00e3o.\n\n\n\n\n\n\nV\u00e1 no seu navegador de arquivos e clique em cima do arquivo .apk.\n\n\n\n\n\n\nProt\u00f3tipo\n\n\nO prot\u00f3tipo foi realizado fazendo uso do site \ndraw.io\n.\n\n\n\nEle mostra, basicamente, o flow do aplicativo.\nEst\u00e1 sujeito a mudan\u00e7as at\u00e9 a finaliza\u00e7\u00e3o.\n\n\nMapa e Pontos Cardeais\n\n\nUsamos o aplicativo \nMobile Topographer\n para fazer a coleta dos dados. Todos os pontos foram estipulados dentro das media\u00e7\u00f5es do IFSC Campus S\u00e3o Jos\u00e9, dentro do mapa confeccionado em sala.\n\n\n\n\nPrograma\u00e7\u00e3o",
+            "title": "Home"
+        },
+        {
+            "location": "/README/#criptas-do-ifsc",
+            "text": "Requisitos do Aplicativo  Instala\u00e7\u00e3o  Prot\u00f3tipo  Mapas e Pontos Cardeais  Programa\u00e7\u00e3o    Link para manual  Projeto final da disciplina PJI29001.\nEste reposit\u00f3rio cont\u00e9m todos os arquivos necess\u00e1rios para a cria\u00e7\u00e3o e conclus\u00e3o do  aplicativo treasure-hunt .  O aplicativo foi feito usando a plataforma  MIT App Inventor .  Este aplicativo foi feito de acordo com os requisitos das professoras Maria  Claudia de Castro  e  Mayara de Sousa .  Time :\nMatheus Henrique Muller\nLayza Cristini\nMatheus\nEmanuella\nMatheus",
+            "title": "Criptas do IFSC"
+        },
+        {
+            "location": "/README/#requisitos-do-aplicativo",
+            "text": "Para instalar este aplicativo voc\u00ea precisa:   Um dispositivo android x.x.x ou maior.  x espa\u00e7o dispon\u00edvel no seu dispositivo  Desabilitar, nas configura\u00e7\u00f5es do dispositivo, a op\u00e7\u00e3o de aplicativos apenas da Play Store.",
+            "title": "Requisitos do Aplicativo"
+        },
+        {
+            "location": "/README/#instalacao",
+            "text": "Fa\u00e7a download, no seu dispositivo Android, do arquivo .apk contido neste reposit\u00f3rio.    Normalmente os dispositivos android s\u00e3o configurados para instalar apenas aplicativos por meio da Play Store. Voc\u00ea precisa desativar esta configura\u00e7\u00e3o para instalar o treasure-hunt. Para isso v\u00e1 em configura\u00e7\u00f5es/xxx/xxx/xxx e desative a op\u00e7\u00e3o.    V\u00e1 no seu navegador de arquivos e clique em cima do arquivo .apk.",
+            "title": "Instala\u00e7\u00e3o"
+        },
+        {
+            "location": "/README/#prototipo",
+            "text": "O prot\u00f3tipo foi realizado fazendo uso do site  draw.io .  \nEle mostra, basicamente, o flow do aplicativo.\nEst\u00e1 sujeito a mudan\u00e7as at\u00e9 a finaliza\u00e7\u00e3o.",
+            "title": "Prot\u00f3tipo"
+        },
+        {
+            "location": "/README/#mapa-e-pontos-cardeais",
+            "text": "Usamos o aplicativo  Mobile Topographer  para fazer a coleta dos dados. Todos os pontos foram estipulados dentro das media\u00e7\u00f5es do IFSC Campus S\u00e3o Jos\u00e9, dentro do mapa confeccionado em sala.",
+            "title": "Mapa e Pontos Cardeais"
+        },
+        {
+            "location": "/README/#programacao",
+            "text": "",
+            "title": "Programa\u00e7\u00e3o"
+        },
+        {
+            "location": "/man-user/README/",
+            "text": "Manual do Usu\u00e1rio\n\n\n\n\nOl\u00e1 Usu\u00e1rio! Nesta p\u00e1gina voc\u00ea ver\u00e1 como instalar, jogar e tamb\u00e9m as respostas do App Criptas do IFSC. Vamos l\u00e1!\n\n\n\n\nInstalando o App\n\n\nComo Jogar\n\n\nSpoilers\n\n\nAgradecimentos\n\n\n\n\n\n\nInstalando o App\n\n\nO aplicativo \nCriptas do IFSC\n est\u00e1 dispon\u00edvel apenas para smartphones Android.\n\n\nPara instalar a \nvers\u00e3o beta\n, baixe o arquivo \naqui\n.\nAp\u00f3s baixar, v\u00e1 at\u00e9 seu gerenciador de arquivos do android e clique em cima do arquivo de extens\u00e3o \n.apk\n.\n\n\nOBS: Talvez voc\u00ea n\u00e3o consiga efetuar a instala\u00e7\u00e3o no apk porque o android \u00e9 configurado para \nbloquear aplicativos de fora da Play Store\n. Para mudar esta configura\u00e7\u00e3o, v\u00e1 em:\n\n\nConfigura\u00e7\u00f5es > Apps e notifica\u00e7\u00f5es > Acesso especial ao App > Instalar apps desconhecidos\n e permita o Google Chrome como fonte.\n\n\n\n\nComo Jogar\n\n\nBem vindo ao Criptas do IFSC! A cada novo desafio, uma nova parte do mapa secreto do IFSC estar\u00e1 dispon\u00edvel para voc\u00ea! Mas \u00e9 preciso merecer...\n\n\nPara passar de fases, voc\u00ea precisa encontrar \nexatamente\n os locais onde cada uma das fases toma vida. Se estiver no lugar certo (e com as coordenadas corretas) voc\u00ea ter\u00e1 sua chance de desbloquear uma parte do mapa!\n\n\nAs coordenadas devem ser escritas no formato do exemplo a seguir:\n\n\nLATITUDE: -12.3456\n\nLONGITUDE: -65.4321\n\n\nBingo!\n\n\nAgora, aparecer\u00e1 para voc\u00ea um enigma. Desvende-o e uma parte do mapa secreto estar\u00e1 em suas m\u00e3os.\nBoa sorte aventureiro!\n\n\n\n\nSpoilers\n\n\nAbaixo voc\u00ea pode ver as respostas das quest\u00f5es, referentes ao aplicativo beta (1.0.0)\nVeja por sua conta em risco!\n\n\n\n\nClique aqui para ver as respostas!\n\n\n\n\nFase 1\n\nChegando ao para\u00edso de tijolos \u00e1 vista, antes mesmo de passar a guarita, cuidado para n\u00e3o trope\u00e7ar nas chepas! As \u00e1rvores em volta j\u00e1 ouviram tanta fofoca que perderam as folhas... Muitos sentam aqui, enquanto a fuma\u00e7a sobe. \n\nLatitude: -27.6083\n\nLongitude: -48.6331 \n\nEnigma 1: a\n\n\n\n\nFase 2\n\nNem tudo no IFSC \u00e9 exatas... algumas pessoas at\u00e9 gostam de fazer algum esporte! Mas nem sempre o lugar perfeito est\u00e1 aberto... que tal sentar na beirada e esperar?\n\nLatitude: 27.6083\n\nLongitude: -48.6328\n\nEnigma 2: b\n\n\n\n\nFase 3\n\nTodos os patrim\u00f4nios do IFSC tem utilidade... mas a minha eu perdi a muito tempo. Um dia restar\u00e1 s\u00f3 hidr\u00f3xido de ferro, que agora surge nas minhas entranhas. Pra sempre esquecido, sem poder sair do lugar por estar murcho, estou fadado a pertencer ao IFSC pra sempre.\n\nLatitude: -27.6089\n\nLongitude: -48.6333\n\nEnigma 3: Colocar em evidencia a maior pot\u00eancia de x\n\n\n\n\nFase 4\n\nPerigo! N\u00e3o chegue perto de mim! Esse zumbido que voc\u00ea ouve n\u00e3o \u00e9 o de abelhas... Mas n\u00e3o chegue perto, voc\u00ea pode acabar frito.\n\nLatitude: -27.6087\n\nLongitude: -48.6334\n\nEnigma 4: d\n\n\n\n\nFase 5\n\nPoucos sabem que eu existo. Entre os estudantes, s\u00f3 os mais preocupados com a sa\u00fade j\u00e1 passaram por mim. Todas as ter\u00e7as e quintas vejo pessoas vestidas com um macac\u00e3o branco... Elas deveriam me agradecer. Se n\u00e3o fosse por mim sujariam todo o macac\u00e3o de suor.\n\nLatitude: -27.6084\n\nLongitude: -48.6336\n\nEnigma 5: e\n\n\n\n\nFase 6\n\nFui idealizado pelos alunos! Pego sol todo dia, mas s\u00f3 em um hor\u00e1rio pr\u00f3ximo do meio dia, porque tem pr\u00e9dio a minha volta :( Juntas formamos uma mini comunidade, somos v\u00e1rias esp\u00e9cies diferentes, mas precisamos todas de sol e \u00e1gua pra crescer. Assistimos ao movimento dos alunos todos os dias, saindo de suas salas no intervalo...\n\nLatitude: -27.6087\n\nLongitude: -48.6335\n\nEnigma 6: Dos tipos de superficie e a for\u00e7a entre elas\n\n\n\n\nFase 7\n\nSou um lugar obscuro. Muitos passam anos pelo IFSC e nunca chegam a me visitar. Quando os servidores precisam de algo, eles precisam buscar aqui. N\u00e3o \u00e9 preciso subir nenhuma escada para me visitar, basta ir \u00e0 esquerda. Pare\u00e7o uma casinha, mas dentro s\u00f3 tem sujeira, coisas desonhecidas e talvez alguns aracn\u00eddeos. Voc\u00ea pode ver meu interior por entre as grades.\n\nLatitude: -27.6082\n\nLongitude: -48.6335\n\nEnigma 7: g\n\n\n\n\nEnigma Final\n\nResposta: enigma final\n\n\n\n\n\n\nAgradecimentos",
+            "title": "Manual do Usu\u00e1rio"
+        },
+        {
+            "location": "/man-user/README/#manual-do-usuario",
+            "text": "Ol\u00e1 Usu\u00e1rio! Nesta p\u00e1gina voc\u00ea ver\u00e1 como instalar, jogar e tamb\u00e9m as respostas do App Criptas do IFSC. Vamos l\u00e1!   Instalando o App  Como Jogar  Spoilers  Agradecimentos",
+            "title": "Manual do Usu\u00e1rio"
+        },
+        {
+            "location": "/man-user/README/#instalando-o-app",
+            "text": "O aplicativo  Criptas do IFSC  est\u00e1 dispon\u00edvel apenas para smartphones Android.  Para instalar a  vers\u00e3o beta , baixe o arquivo  aqui .\nAp\u00f3s baixar, v\u00e1 at\u00e9 seu gerenciador de arquivos do android e clique em cima do arquivo de extens\u00e3o  .apk .  OBS: Talvez voc\u00ea n\u00e3o consiga efetuar a instala\u00e7\u00e3o no apk porque o android \u00e9 configurado para  bloquear aplicativos de fora da Play Store . Para mudar esta configura\u00e7\u00e3o, v\u00e1 em:  Configura\u00e7\u00f5es > Apps e notifica\u00e7\u00f5es > Acesso especial ao App > Instalar apps desconhecidos  e permita o Google Chrome como fonte.",
+            "title": "Instalando o App"
+        },
+        {
+            "location": "/man-user/README/#como-jogar",
+            "text": "Bem vindo ao Criptas do IFSC! A cada novo desafio, uma nova parte do mapa secreto do IFSC estar\u00e1 dispon\u00edvel para voc\u00ea! Mas \u00e9 preciso merecer...  Para passar de fases, voc\u00ea precisa encontrar  exatamente  os locais onde cada uma das fases toma vida. Se estiver no lugar certo (e com as coordenadas corretas) voc\u00ea ter\u00e1 sua chance de desbloquear uma parte do mapa!  As coordenadas devem ser escritas no formato do exemplo a seguir:  LATITUDE: -12.3456 \nLONGITUDE: -65.4321  Bingo!  Agora, aparecer\u00e1 para voc\u00ea um enigma. Desvende-o e uma parte do mapa secreto estar\u00e1 em suas m\u00e3os.\nBoa sorte aventureiro!",
+            "title": "Como Jogar"
+        },
+        {
+            "location": "/man-user/README/#spoilers",
+            "text": "Abaixo voc\u00ea pode ver as respostas das quest\u00f5es, referentes ao aplicativo beta (1.0.0)\nVeja por sua conta em risco!   Clique aqui para ver as respostas!   Fase 1 \nChegando ao para\u00edso de tijolos \u00e1 vista, antes mesmo de passar a guarita, cuidado para n\u00e3o trope\u00e7ar nas chepas! As \u00e1rvores em volta j\u00e1 ouviram tanta fofoca que perderam as folhas... Muitos sentam aqui, enquanto a fuma\u00e7a sobe.  \nLatitude: -27.6083 \nLongitude: -48.6331  \nEnigma 1: a   Fase 2 \nNem tudo no IFSC \u00e9 exatas... algumas pessoas at\u00e9 gostam de fazer algum esporte! Mas nem sempre o lugar perfeito est\u00e1 aberto... que tal sentar na beirada e esperar? \nLatitude: 27.6083 \nLongitude: -48.6328 \nEnigma 2: b   Fase 3 \nTodos os patrim\u00f4nios do IFSC tem utilidade... mas a minha eu perdi a muito tempo. Um dia restar\u00e1 s\u00f3 hidr\u00f3xido de ferro, que agora surge nas minhas entranhas. Pra sempre esquecido, sem poder sair do lugar por estar murcho, estou fadado a pertencer ao IFSC pra sempre. \nLatitude: -27.6089 \nLongitude: -48.6333 \nEnigma 3: Colocar em evidencia a maior pot\u00eancia de x   Fase 4 \nPerigo! N\u00e3o chegue perto de mim! Esse zumbido que voc\u00ea ouve n\u00e3o \u00e9 o de abelhas... Mas n\u00e3o chegue perto, voc\u00ea pode acabar frito. \nLatitude: -27.6087 \nLongitude: -48.6334 \nEnigma 4: d   Fase 5 \nPoucos sabem que eu existo. Entre os estudantes, s\u00f3 os mais preocupados com a sa\u00fade j\u00e1 passaram por mim. Todas as ter\u00e7as e quintas vejo pessoas vestidas com um macac\u00e3o branco... Elas deveriam me agradecer. Se n\u00e3o fosse por mim sujariam todo o macac\u00e3o de suor. \nLatitude: -27.6084 \nLongitude: -48.6336 \nEnigma 5: e   Fase 6 \nFui idealizado pelos alunos! Pego sol todo dia, mas s\u00f3 em um hor\u00e1rio pr\u00f3ximo do meio dia, porque tem pr\u00e9dio a minha volta :( Juntas formamos uma mini comunidade, somos v\u00e1rias esp\u00e9cies diferentes, mas precisamos todas de sol e \u00e1gua pra crescer. Assistimos ao movimento dos alunos todos os dias, saindo de suas salas no intervalo... \nLatitude: -27.6087 \nLongitude: -48.6335 \nEnigma 6: Dos tipos de superficie e a for\u00e7a entre elas   Fase 7 \nSou um lugar obscuro. Muitos passam anos pelo IFSC e nunca chegam a me visitar. Quando os servidores precisam de algo, eles precisam buscar aqui. N\u00e3o \u00e9 preciso subir nenhuma escada para me visitar, basta ir \u00e0 esquerda. Pare\u00e7o uma casinha, mas dentro s\u00f3 tem sujeira, coisas desonhecidas e talvez alguns aracn\u00eddeos. Voc\u00ea pode ver meu interior por entre as grades. \nLatitude: -27.6082 \nLongitude: -48.6335 \nEnigma 7: g   Enigma Final \nResposta: enigma final",
+            "title": "Spoilers"
+        },
+        {
+            "location": "/man-user/README/#agradecimentos",
+            "text": "",
+            "title": "Agradecimentos"
+        },
+        {
+            "location": "/man-dev/README/",
+            "text": "Manual Dev",
+            "title": "Manual do Desenvolvedor"
+        },
+        {
+            "location": "/man-dev/README/#manual-dev",
+            "text": "",
+            "title": "Manual Dev"
+        }
+    ]
+}
