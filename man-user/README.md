@@ -56,7 +56,7 @@ Longitude: -48.6331
 Enigma 1: a  
 <br>
 **Fase 2**
-Nem tudo no IFSC é exatas... algumas pessoas até gostam de se exercitar! Mas nem sempre o lugar perfeito está aberto... que tal sentar na beirada e esperar?  
+Nem tudo no IFSC é exatas... algumas pessoas até gostam de fazer algum esporte! Mas nem sempre o lugar perfeito está aberto... que tal sentar na beirada e esperar?  
 Latitude: 27.6083  
 Longitude: -48.6328  
 Enigma 2: b  
