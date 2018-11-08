@@ -50,31 +50,45 @@ Veja por sua conta em risco!
 <br>
 
 **Fase 1**  
-Latitude: 11.1111 Longitude: 11.1111  
-Enigma 1: a  
+Chegando ao paraíso de tijolos á vista, antes mesmo de passar a guarita, cuidado para não tropeçar nas cinzas! As árvores em volta já ouviram tanta fofoca que perderam as folhas... Muitos sentam aqui, enquanto a fumaça sobe.  
+Latitude: -27.6083
+Longitude: -48.6331
+Enigma 1: a
 <br>
-**Fase 2**  
-Latitude: 22.2222 Longitude: 22.2222  
+**Fase 2**
+Nem tudo no IFSC é exatas... algumas pessoas até gostam de se exercitar! Mas nem sempre o lugar perfeito está aberto... que tal sentar na beirada e esperar?  
+Latitude: 27.6083
+Longitude: -48.6328 
 Enigma 2: b  
 <br>
 **Fase 3**  
-Latitude: 33 Longitude: 33  
+Todos os patrimônios do IFSC tem utilidade... mas a minha eu perdi a muito tempo. Um dia restará só hidróxido de ferro, que agora surge nas minhas entranhas. Pra sempre esquecido, sem poder sair do lugar por estar murcho, estou fadado a pertencer ao IFSC pra sempre.  
+Latitude: -27.6089
+Longitude: -48.6333 
 Enigma 3: Colocar em evidencia a maior potência de x  
 <br>
 **Fase 4**  
-Latitude: 44 Longitude: 44  
+Perigo! Não chegue perto de mim! Esse zumbido que você ouve não é o de abelhas... Mas não chegue perto, você pode acabar frito.  
+Latitude: -27.6087
+Longitude: -48.6334
 Enigma 4: d  
 <br>
-**Fase 5**   
-Latitude: 55 Longitude: 55  
+**Fase 5**  
+Poucos sabem que eu existo. Entre os estudantes, só os mais preocupados com a saúde já passaram por mim. Todas as terças e quintas vejo pessoas vestidas com um macacão branco... Elas deveriam me agradecer. Se não fosse por mim sujariam todo o macacão de suor.  
+Latitude: -27.6084
+Longitude: -48.6336
 Enigma 5: e  
 <br>  
 **Fase 6**  
-Latitude: 66 Longitude: 66  
+Fui idealizado pelos alunos! Pego sol todo dia, mas só em um horário próximo do meio dia, porque tem prédio a minha volta :( Juntas formamos uma mini comunidade, somos várias espécies diferentes, mas precisamos todas de sol e água pra crescer. Assistimos ao movimento dos alunos todos os dias, saindo de suas salas no intervalo... 
+Latitude: -27.6087
+Longitude: -48.6335  
 Enigma 6: Dos tipos de superficie e a força entre elas  
 <br>
 **Fase 7**  
-Latitude: 77 Longitude: 77  
+Sou um lugar obscuro. Muitos passam anos pelo IFSC e nunca chegam a me visitar. Quando os servidores precisam de algo, eles precisam buscar aqui. Não é preciso subir nenhuma escada para me visitar, basta ir à esquerda. Pareço uma casinha, mas dentro só tem sujeira, coisas desonhecidas e talvez alguns aracnídeos. Você pode ver meu interior por entre as grades. 
+Latitude: -27.6082
+Longitude: -48.6335 
 Enigma 7: g  
 <br>
 **Enigma Final**  
