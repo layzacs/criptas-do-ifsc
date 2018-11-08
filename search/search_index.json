@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/README/",
+            "text": "Criptas do IFSC\n\n\n\n\n\n\nRequisitos do Aplicativo\n\n\nInstala\u00e7\u00e3o\n\n\nProt\u00f3tipo\n\n\nMapas e Pontos Cardeais\n\n\nPrograma\u00e7\u00e3o\n\n\n\n\n\n\nLink para manual\n\n\nProjeto final da disciplina PJI29001.\nEste reposit\u00f3rio cont\u00e9m todos os arquivos necess\u00e1rios para a cria\u00e7\u00e3o e conclus\u00e3o do \naplicativo treasure-hunt\n.\n\n\nO aplicativo foi feito usando a plataforma \nMIT App Inventor\n.\n\n\nEste aplicativo foi feito de acordo com os requisitos das professoras Maria \nClaudia de Castro\n e \nMayara de Sousa\n.\n\n\nTime\n:\nMatheus Henrique Muller\nLayza Cristini\nMatheus\nEmanuella\nMatheus\n\n\n\n\nRequisitos do Aplicativo\n\n\nPara instalar este aplicativo voc\u00ea precisa:\n\n\n\n\nUm dispositivo android x.x.x ou maior.\n\n\nx espa\u00e7o dispon\u00edvel no seu dispositivo\n\n\nDesabilitar, nas configura\u00e7\u00f5es do dispositivo, a op\u00e7\u00e3o de aplicativos apenas da Play Store.\n\n\n\n\nInstala\u00e7\u00e3o\n\n\n\n\n\n\nFa\u00e7a download, no seu dispositivo Android, do arquivo .apk contido neste reposit\u00f3rio.\n\n\n\n\n\n\nNormalmente os dispositivos android s\u00e3o configurados para instalar apenas aplicativos por meio da Play Store. Voc\u00ea precisa desativar esta configura\u00e7\u00e3o para instalar o treasure-hunt. Para isso v\u00e1 em configura\u00e7\u00f5es/xxx/xxx/xxx e desative a op\u00e7\u00e3o.\n\n\n\n\n\n\nV\u00e1 no seu navegador de arquivos e clique em cima do arquivo .apk.\n\n\n\n\n\n\nProt\u00f3tipo\n\n\nO prot\u00f3tipo foi realizado fazendo uso do site \ndraw.io\n.\n\n\n\nEle mostra, basicamente, o flow do aplicativo.\nEst\u00e1 sujeito a mudan\u00e7as at\u00e9 a finaliza\u00e7\u00e3o.\n\n\nMapa e Pontos Cardeais\n\n\nUsamos o aplicativo \nMobile Topographer\n para fazer a coleta dos dados. Todos os pontos foram estipulados dentro das media\u00e7\u00f5es do IFSC Campus S\u00e3o Jos\u00e9, dentro do mapa confeccionado em sala.\n\n\n\n\nPrograma\u00e7\u00e3o",
+            "title": "Home"
+        },
+        {
+            "location": "/README/#criptas-do-ifsc",
+            "text": "Requisitos do Aplicativo  Instala\u00e7\u00e3o  Prot\u00f3tipo  Mapas e Pontos Cardeais  Programa\u00e7\u00e3o    Link para manual  Projeto final da disciplina PJI29001.\nEste reposit\u00f3rio cont\u00e9m todos os arquivos necess\u00e1rios para a cria\u00e7\u00e3o e conclus\u00e3o do  aplicativo treasure-hunt .  O aplicativo foi feito usando a plataforma  MIT App Inventor .  Este aplicativo foi feito de acordo com os requisitos das professoras Maria  Claudia de Castro  e  Mayara de Sousa .  Time :\nMatheus Henrique Muller\nLayza Cristini\nMatheus\nEmanuella\nMatheus",
+            "title": "Criptas do IFSC"
+        },
+        {
+            "location": "/README/#requisitos-do-aplicativo",
+            "text": "Para instalar este aplicativo voc\u00ea precisa:   Um dispositivo android x.x.x ou maior.  x espa\u00e7o dispon\u00edvel no seu dispositivo  Desabilitar, nas configura\u00e7\u00f5es do dispositivo, a op\u00e7\u00e3o de aplicativos apenas da Play Store.",
+            "title": "Requisitos do Aplicativo"
+        },
+        {
+            "location": "/README/#instalacao",
+            "text": "Fa\u00e7a download, no seu dispositivo Android, do arquivo .apk contido neste reposit\u00f3rio.    Normalmente os dispositivos android s\u00e3o configurados para instalar apenas aplicativos por meio da Play Store. Voc\u00ea precisa desativar esta configura\u00e7\u00e3o para instalar o treasure-hunt. Para isso v\u00e1 em configura\u00e7\u00f5es/xxx/xxx/xxx e desative a op\u00e7\u00e3o.    V\u00e1 no seu navegador de arquivos e clique em cima do arquivo .apk.",
+            "title": "Instala\u00e7\u00e3o"
+        },
+        {
+            "location": "/README/#prototipo",
+            "text": "O prot\u00f3tipo foi realizado fazendo uso do site  draw.io .  \nEle mostra, basicamente, o flow do aplicativo.\nEst\u00e1 sujeito a mudan\u00e7as at\u00e9 a finaliza\u00e7\u00e3o.",
+            "title": "Prot\u00f3tipo"
+        },
+        {
+            "location": "/README/#mapa-e-pontos-cardeais",
+            "text": "Usamos o aplicativo  Mobile Topographer  para fazer a coleta dos dados. Todos os pontos foram estipulados dentro das media\u00e7\u00f5es do IFSC Campus S\u00e3o Jos\u00e9, dentro do mapa confeccionado em sala.",
+            "title": "Mapa e Pontos Cardeais"
+        },
+        {
+            "location": "/README/#programacao",
+            "text": "",
+            "title": "Programa\u00e7\u00e3o"
+        }
+    ]
+}
