@@ -26,6 +26,8 @@ Na confeccção do design (imagens e áudios) foram usados os softwares:
 - onlinevideoconverter.com;
 - Tinypng.
 
+Para recolhimento das coordenadas, usamos o aplciativo Mobile Topographer, disponível na play store para download gratuito.
+
 ---
 
 ## Protótipo
@@ -98,5 +100,56 @@ Para o ícone mantivemos o escudo da logo e colocamos um a inicial do aplicativo
 ---
 
 ## Programação
+
+A programação foi feita na plataforma Mit App Inventor, no formato de blocos. Iremos explicar brevemente a composição dos blocos de cada uma das telas do aplicativo.
+
+O aplicativo é composto por 7 fases. Cada uma das fases possui dicas para uma localização específica e um enigma, que só é desbloqueado quando o usuário insere nos espaços Latitude e Longitude as coordenadas corretas.
+
+**OBS**: Os textos mostrados dentro dos blocos não condizem com os textos finais. A programação de blocos foi finalizada antes da criação das dicas.
+
+### Tela 1
+
+A primeira tela é a home do aplicativo. Ela possui os botões `jogar`, `sair do jogo` e `instruções`.
+
+Sua composição é bastante simples, como pode ser vista abaixo:
+
+![Blocos Tela 1](https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen1.png)
+
+Esta página tem, como funções, inicializar o banco de dados TinyDB1 e abrir novas screens de acordo com o botão apertado.
+
+### Tela 2
+
+Esta é a tela que abre quando clicamos nas instruções. Ela mostrará uma imagem com o texto de instruções e dará as opções de voltar para a tela anterior e seguir para a fase 1.
+
+![Blocos Tela 2](https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen2.png)
+
+### Tela 3
+
+Aqui é onde a mágica acontece. Esta é a página por trás de todas as fases do aplicativo. A cada nova fase, o conteúdo mostrado na tela é resgatado de acordo com o número armazenado no banco de dados. Cada vez que o usuário passa de fase, é adicionado `+1` a nossa global `fase`. De acordo com essa variável `fase`, diferentes imagens e textos aparecerão na tela. Mas vamos por partes.
+
+![Blocos Tela 3 pt1 1](https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen3-pt1.png)
+
+Nos blocos da imagem acima, podemos ver todas as variáveis sendo inicializadas na tela e um bloco grande que é responsável por chamar as legendas 1 e 2 e também a imagem da fase armazenada na variável `fase`. podemos ver também um padrão de repetição, pois o processo é o mesmo para cada uma das fases. O que muda entre elas é a legenda e a imagem respectiva.
+
+![Bloco Tela 3 pt2 2](https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen3-pt2.png)
+
+Os blocos acima são responsáveis pela parte de coordenadas. Os primeiros 4 blocos laranjas chamam a variável longitude e latitude, dizendo o formato que a resposta deve ser dada e o número de casas.
+Após, ele pega as latitudes específicas de acordo com a global `fase`. Se a latitude e longitude forem iguais as especificadas, é aberta uma nova tela de acerto. Caso contrário, o usuário ouvirá o Som 1. O mesmo processo se repete para cada uma da fases.
+
+![Bloco Tela 3 pt 3](https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen3-pt3.png)
+
+Os blocos acima são referentes ao botão avanças, contido na tela das fases, e é responsável por mostrar as dicas do local onde serão recolhidos os dados de latitude e longitude. Novamente, a variável de fase será consultada para mostrar as dicas corretas da fase. Cada vez que o usuário apertar o botão avançar, ele verá a próxima dica do local.
+
+### Tela 4
+
+A tela 4 é a mostrada para o usuário após as 7 fases, quando ele poderá responder ao enigma final. É inicializada a global fase e o botão próxima fase envia o usuário para a tela do enigma final.
+
+![Bloco Tela 4](https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen4.png)
+
+### Tela 5
+
+A tela 5 é onde serão mostrados para o usuários os enigmas que contém questões de múltipla escolha. Serão 4 botões disponíveis para o usuário, onde caso ele escolha o botão correto, será enviado para a próxima fase. Caso escolha o botão errado, será enviado para a fase anterior. Nota-se que na dase 3, o botão correto é o de número 3, que enviará o usuário para a tela das fases. Qualquer outro botão iria subtrair 1 da variável `fase`, e retornaria para uma tela de erro.
+
+![Bloco Tela 5]
 
 ## Manual
