@@ -9,7 +9,6 @@
 - [Design](#design)
 - [Programação](#programacao)
 - [Manuais](#manuais)
-- [Agradecimentos](#agradecimentos)
 
 ---
 
@@ -21,12 +20,12 @@ Para a criação do protótipo, pode ser usado o site [draw.io](https://www.draw
 
 Na confeccção do design (imagens e áudios) foram usados os softwares:
 
-- Adobe photoshop CS6 64bits;
-- Dungeon Builder;
-- onlinevideoconverter.com;
-- Tinypng.
+- [Adobe photoshop CS6 64bits](https://www.adobe.com/br/products/photoshop.html?promoid=PC1PQQ5T&mv=other);
+- [Dungeon Painter Studio](https://store.steampowered.com/app/592260/Dungeon_Painter_Studio/?l=portuguese);
+- [onlinevideoconverter.com](https://www.onlinevideoconverter.com/pt);
+- [Tinypng](https://tinypng.com/).
 
-Para recolhimento das coordenadas, usamos o aplciativo Mobile Topographer, disponível na play store para download gratuito.
+Para recolhimento das coordenadas, usamos o aplicativo Mobile Topographer, disponível na play store para download gratuito.
 
 ---
 
@@ -72,14 +71,14 @@ As imagens de botões para o aplicativo foram criadas com o Adobe Photoshop CS6.
 
 ### Mapa
 
-O mapa foi criado com o software de criação de mapas para RPG Dungeon Builder. É um software pago, assim como o Photoshop, e pode ser baixado pela Steam. Atualmente ele custa em torno de 30 reais.
+O mapa foi criado com o software de criação de mapas para RPG Dungeon Painter Studio. É um software pago, assim como o Photoshop, e pode ser baixado pela Steam. Atualmente ele custa em torno de 30 reais.
 Tínhamos a necessidade de representar o terreno do IFSC por um mapa e a criação pelo software foi a mais interessante para nós, suprindo as necessidades e também combinando com o tema medieval do aplicativo.
 
 O mapa de rascunho que usamos para a criação do principal pode ser visto abaixo:
 
 ![Mapa de Rascunho](https://github.com/PJI29001/treasure-hunt/blob/master/img/mapa-ifsc.png)
 
-O resultado, após o uso do Dungeon Builder (e já com moldura adicionada), que é mostrado apenas após conclusão de todos os desafios foi:
+O resultado, após o uso do Dungeon Painter Studio (e já com moldura adicionada), que é mostrado apenas após conclusão de todos os desafios foi:
 
 ![Mapa do IFSC](https://github.com/PJI29001/treasure-hunt/blob/master/img/map-moldura.png)
 
@@ -150,6 +149,26 @@ A tela 4 é a mostrada para o usuário após as 7 fases, quando ele poderá resp
 
 A tela 5 é onde serão mostrados para o usuários os enigmas que contém questões de múltipla escolha. Serão 4 botões disponíveis para o usuário, onde caso ele escolha o botão correto, será enviado para a próxima fase. Caso escolha o botão errado, será enviado para a fase anterior. Nota-se que na dase 3, o botão correto é o de número 3, que enviará o usuário para a tela das fases. Qualquer outro botão iria subtrair 1 da variável `fase`, e retornaria para uma tela de erro.
 
-![Bloco Tela 5]
+![Bloco Tela 5](https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen5.png)
+
+### Tela 6
+
+A tela 6 é responsável pelos demais enigmas. Quando a tela inicializa, a variável `fase` é resgatada, e de acordo com o seu valor é aberta a imagem do enigma. As respostas destes enigmas devem ser digitadas pelo usuário. Se a resposta dada pelo usuário estiver na lista de respostas aceitas, o usuário é enviado para a tela de acerto. Caso contrário, é tocado o Som 1, que significa erro.
+
+![Bloco Tela 6](https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen6.png)
+
+### Tela 7
+
+A tela 7 é a tela de acerto. Após responder corretamente cada um dos enigmas, o usuário é enviado para esta tela, onde, ao apertar o botão Próxima Fase, é somado `+1` a global fase e o usuário é enviado novamente para a tela 3.
+
+![Bloco Tela 7](https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen7.png)
+
+### Tela 8
+
+A tela 8 é a tela final, pra onde o usuário é mandado após acertar o enigma final. Aqui poderá ser visto o mapa completo do IFSC e também uma mensagem de parabéns por ter finalizado o jogo.
+
+![Bloco Tela 8](https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen8.png)
 
 ## Manual
+
+O manual (este que você está lendo!) foi escrito usando a interface Atom e o Git em conjunto com o Github. As vantagens de se ter documentação versionada são diversas. Um dos motivos que nos incentivou a fazer uso do Github foi a possibilidade de hospedar sites estáticos, mas tal prática ainda está sendo domada pelo responsável pela documentação do projeto.
