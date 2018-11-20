@@ -43,18 +43,31 @@ O protótipo acima foi criado com imagens internas do próprio [draw.io](https:/
 As imagens de botões para o aplicativo foram criadas com o Adobe Photoshop CS6.
 
 ![Botão Avançar](https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-advance.png)
+
 ![Botão Confirmar](https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-confirm.png)
+
 ![Botão Fase 1](https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase1.png)
+
 ![Botão Fase 2](https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase2.png)
+
 ![Botão Fase 3](https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase3.png)
+
 ![Botão Fase 4](https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase4.png)
+
 ![Botão Fase 5](https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase5.png)
+
 ![Botão Fase 6](https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase6.png)
+
 ![Botão Fase 7](https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase7.png)
+
 ![Botão Instruções](https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-instructions.png)
+
 ![Botão Latitude](https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-latitude.png)
+
 ![Botão Play](https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-play.png)
+
 ![Botão Retry](https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-retry.png)
+
 ### Mapa
 
 O mapa foi criado com o software de criação de mapas para RPG Dungeon Builder. É um software pago, assim como o Photoshop, e pode ser baixado pela Steam. Atualmente ele custa em torno de 30 reais.
@@ -85,3 +98,5 @@ Para o ícone mantivemos o escudo da logo e colocamos um a inicial do aplicativo
 ---
 
 ## Programação
+
+## Manual
