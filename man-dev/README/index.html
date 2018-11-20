@@ -5,10 +5,10 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
-        <meta name="author" content="Grupo 1">
+        
         
         <link rel="shortcut icon" href="../../img/favicon.ico">
-        <title>Manual do Desenvolvedor - Criptas do IFSC</title>
+        <title>Manual do Desenvolvedor - CRIPTAS DO IFSC - Criptas do IFSC</title>
         <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../css/font-awesome-4.5.0.css" rel="stylesheet">
         <link href="../../css/base.css" rel="stylesheet">
@@ -32,21 +32,30 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="../../README/">Criptas do IFSC</a>
+            <a class="navbar-brand" href="./">Criptas do IFSC</a>
         </div>
 
         <!-- Expanded navigation -->
         <div class="navbar-collapse collapse">
                 <!-- Main navigation -->
                 <ul class="nav navbar-nav">
-                    <li >
-                        <a href="../../README/">Home</a>
+                    <li class="dropdown active">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Man dev <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li class="active">
+    <a href="./">Manual do Desenvolvedor - CRIPTAS DO IFSC</a>
+</li>
+                        </ul>
                     </li>
-                    <li >
-                        <a href="../../man-user/README/">Manual do Usuário</a>
-                    </li>
-                    <li class="active">
-                        <a href="./">Manual do Desenvolvedor</a>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Man user <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../man-user/README/">README</a>
+</li>
+                        </ul>
                     </li>
                 </ul>
 
@@ -56,18 +65,15 @@
                         <i class="fa fa-search"></i> Search
                     </a>
                 </li>
-                    <li >
-                        <a rel="next" href="../../man-user/README/">
+                    <li class="disabled">
+                        <a rel="next" >
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
-                    <li class="disabled">
-                        <a rel="prev" >
+                    <li >
+                        <a rel="prev" href="../../man-user/README/">
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/PJI29001/treasure-hunt/tree/gh-pages/edit/master/docs/man-dev/README.md">Edit on gh-pages</a>
                     </li>
             </ul>
         </div>
@@ -77,12 +83,112 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#manual-dev">Manual Dev</a></li>
+        <li class="main active"><a href="#manual-do-desenvolvedor-criptas-do-ifsc">Manual do Desenvolvedor - CRIPTAS DO IFSC</a></li>
+            <li><a href="#ferramentas-e-requisitos">Ferramentas e Requisitos</a></li>
+            <li><a href="#prototipo">Protótipo</a></li>
+            <li><a href="#design">Design</a></li>
+            <li><a href="#programacao">Programação</a></li>
+            <li><a href="#manual">Manual</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="manual-dev">Manual Dev</h1></div>
+<h1 id="manual-do-desenvolvedor-criptas-do-ifsc">Manual do Desenvolvedor - CRIPTAS DO IFSC</h1>
+<p><img alt="Criptas do IFSC Logo" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/logo-criptas.jpeg" /></p>
+<p>Olá Desenvolvedor! Nesta página você verá como foi feito o aplicativo Criptas do IFSC e também os pontos cardeais e respostas dos enigmas. Vamos lá!</p>
+<ul>
+<li><a href="#ferramentas-e-requisitos">Ferramentas e Requisitos</a></li>
+<li><a href="#prototipo">Protótipo</a></li>
+<li><a href="#design">Design</a></li>
+<li><a href="#programacao">Programação</a></li>
+<li><a href="#manuais">Manuais</a></li>
+</ul>
+<hr />
+<h2 id="ferramentas-e-requisitos">Ferramentas e Requisitos</h2>
+<p>O aplicativo foi feito na plataforma <a href="http://appinventor.mit.edu/explore/">App Inventor</a>. A programação é toda em blocos, na interface do site App Inventor, feita por meio de um <strong>browser atualizado (Chrome ou Firefox)</strong> em qualquer computador e <strong>não é necessário um computador muito potente</strong> para usá-la. Durante a programação (falaremos mais detalhadamente sobre ela mais abaixo) você precisará de um meio de testar o aplicativo que está sendo criado. Isso pode ser feito usando um <strong>dispositivo móvel operacional com Android versão 2.3 ou superior</strong> ou, opcionalmente, o <a href="http://appinventor.mit.edu/explore/ai2/setup-emulator.html">Emulador App Inventor</a> ou qualquer outro emulador de android para o seu sistema operacional, onde você possa instalar o .apk nele.</p>
+<p>Para a criação do protótipo, pode ser usado o site <a href="https://www.draw.io/">draw.io</a>.</p>
+<p>Na confeccção do design (imagens e áudios) foram usados os softwares:</p>
+<ul>
+<li><a href="https://www.adobe.com/br/products/photoshop.html?promoid=PC1PQQ5T&amp;mv=other">Adobe photoshop CS6 64bits</a>;</li>
+<li><a href="https://store.steampowered.com/app/592260/Dungeon_Painter_Studio/?l=portuguese">Dungeon Painter Studio</a>;</li>
+<li><a href="https://www.onlinevideoconverter.com/pt">onlinevideoconverter.com</a>;</li>
+<li><a href="https://tinypng.com/">Tinypng</a>.</li>
+</ul>
+<p>Para recolhimento das coordenadas, usamos o aplicativo Mobile Topographer, disponível na play store para download gratuito.</p>
+<hr />
+<h2 id="prototipo">Protótipo</h2>
+<p><img alt="Protótipo" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/prototype.png" /></p>
+<p>O protótipo acima foi criado com imagens internas do próprio <a href="https://www.draw.io/">draw.io</a>. Nela, é possível ver todas as páginas funcionanis do aplicativo, o <em>flow</em> do usuário entre as páginas e a disposição do conteúdo.</p>
+<hr />
+<h2 id="design">Design</h2>
+<h3 id="botoes-paginas-e-logo">Botões, Páginas e Logo</h3>
+<p>As imagens de botões para o aplicativo foram criadas com o Adobe Photoshop CS6.</p>
+<p><img alt="Botão Avançar" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-advance.png" /></p>
+<p><img alt="Botão Confirmar" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-confirm.png" /></p>
+<p><img alt="Botão Fase 1" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase1.png" /></p>
+<p><img alt="Botão Fase 2" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase2.png" /></p>
+<p><img alt="Botão Fase 3" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase3.png" /></p>
+<p><img alt="Botão Fase 4" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase4.png" /></p>
+<p><img alt="Botão Fase 5" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase5.png" /></p>
+<p><img alt="Botão Fase 6" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase6.png" /></p>
+<p><img alt="Botão Fase 7" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-fase7.png" /></p>
+<p><img alt="Botão Instruções" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-instructions.png" /></p>
+<p><img alt="Botão Latitude" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-latitude.png" /></p>
+<p><img alt="Botão Play" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-play.png" /></p>
+<p><img alt="Botão Retry" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/bot-retry.png" /></p>
+<h3 id="mapa">Mapa</h3>
+<p>O mapa foi criado com o software de criação de mapas para RPG Dungeon Painter Studio. É um software pago, assim como o Photoshop, e pode ser baixado pela Steam. Atualmente ele custa em torno de 30 reais.
+Tínhamos a necessidade de representar o terreno do IFSC por um mapa e a criação pelo software foi a mais interessante para nós, suprindo as necessidades e também combinando com o tema medieval do aplicativo.</p>
+<p>O mapa de rascunho que usamos para a criação do principal pode ser visto abaixo:</p>
+<p><img alt="Mapa de Rascunho" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/mapa-ifsc.png" /></p>
+<p>O resultado, após o uso do Dungeon Painter Studio (e já com moldura adicionada), que é mostrado apenas após conclusão de todos os desafios foi:</p>
+<p><img alt="Mapa do IFSC" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/map-moldura.png" /></p>
+<p>Para a transição entre as fases decidimos usar uma versão com <em>fog</em> do mapa pronto:</p>
+<p><img alt="Mapa com Fog" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/map-fog.png" /></p>
+<h3 id="logo">Logo</h3>
+<p>Também criada com o Photoshop, a logo seguiu o tema medieval. As imagens que a compoe foram encontradas no Google.</p>
+<p><img alt="Logo Criptas" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/logo-criptas.jpeg" /></p>
+<p>Para o ícone mantivemos o escudo da logo e colocamos um a inicial do aplicativo, para dar destaque e ser visível mesmo que pequena.</p>
+<p><img alt="icon" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/icon.png" /></p>
+<hr />
+<h2 id="programacao">Programação</h2>
+<p>A programação foi feita na plataforma Mit App Inventor, no formato de blocos. Iremos explicar brevemente a composição dos blocos de cada uma das telas do aplicativo.</p>
+<p>O aplicativo é composto por 7 fases. Cada uma das fases possui dicas para uma localização específica e um enigma, que só é desbloqueado quando o usuário insere nos espaços Latitude e Longitude as coordenadas corretas.</p>
+<p><strong>OBS</strong>: Os textos mostrados dentro dos blocos não condizem com os textos finais. A programação de blocos foi finalizada antes da criação das dicas.</p>
+<h3 id="tela-1">Tela 1</h3>
+<p>A primeira tela é a home do aplicativo. Ela possui os botões <code>jogar</code>, <code>sair do jogo</code> e <code>instruções</code>.</p>
+<p>Sua composição é bastante simples, como pode ser vista abaixo:</p>
+<p><img alt="Blocos Tela 1" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen1.png" /></p>
+<p>Esta página tem, como funções, inicializar o banco de dados TinyDB1 e abrir novas screens de acordo com o botão apertado.</p>
+<h3 id="tela-2">Tela 2</h3>
+<p>Esta é a tela que abre quando clicamos nas instruções. Ela mostrará uma imagem com o texto de instruções e dará as opções de voltar para a tela anterior e seguir para a fase 1.</p>
+<p><img alt="Blocos Tela 2" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen2.png" /></p>
+<h3 id="tela-3">Tela 3</h3>
+<p>Aqui é onde a mágica acontece. Esta é a página por trás de todas as fases do aplicativo. A cada nova fase, o conteúdo mostrado na tela é resgatado de acordo com o número armazenado no banco de dados. Cada vez que o usuário passa de fase, é adicionado <code>+1</code> a nossa global <code>fase</code>. De acordo com essa variável <code>fase</code>, diferentes imagens e textos aparecerão na tela. Mas vamos por partes.</p>
+<p><img alt="Blocos Tela 3 pt1 1" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen3-pt1.png" /></p>
+<p>Nos blocos da imagem acima, podemos ver todas as variáveis sendo inicializadas na tela e um bloco grande que é responsável por chamar as legendas 1 e 2 e também a imagem da fase armazenada na variável <code>fase</code>. podemos ver também um padrão de repetição, pois o processo é o mesmo para cada uma das fases. O que muda entre elas é a legenda e a imagem respectiva.</p>
+<p><img alt="Bloco Tela 3 pt2 2" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen3-pt2.png" /></p>
+<p>Os blocos acima são responsáveis pela parte de coordenadas. Os primeiros 4 blocos laranjas chamam a variável longitude e latitude, dizendo o formato que a resposta deve ser dada e o número de casas.
+Após, ele pega as latitudes específicas de acordo com a global <code>fase</code>. Se a latitude e longitude forem iguais as especificadas, é aberta uma nova tela de acerto. Caso contrário, o usuário ouvirá o Som 1. O mesmo processo se repete para cada uma da fases.</p>
+<p><img alt="Bloco Tela 3 pt 3" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen3-pt3.png" /></p>
+<p>Os blocos acima são referentes ao botão avanças, contido na tela das fases, e é responsável por mostrar as dicas do local onde serão recolhidos os dados de latitude e longitude. Novamente, a variável de fase será consultada para mostrar as dicas corretas da fase. Cada vez que o usuário apertar o botão avançar, ele verá a próxima dica do local.</p>
+<h3 id="tela-4">Tela 4</h3>
+<p>A tela 4 é a mostrada para o usuário após as 7 fases, quando ele poderá responder ao enigma final. É inicializada a global fase e o botão próxima fase envia o usuário para a tela do enigma final.</p>
+<p><img alt="Bloco Tela 4" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen4.png" /></p>
+<h3 id="tela-5">Tela 5</h3>
+<p>A tela 5 é onde serão mostrados para o usuários os enigmas que contém questões de múltipla escolha. Serão 4 botões disponíveis para o usuário, onde caso ele escolha o botão correto, será enviado para a próxima fase. Caso escolha o botão errado, será enviado para a fase anterior. Nota-se que na dase 3, o botão correto é o de número 3, que enviará o usuário para a tela das fases. Qualquer outro botão iria subtrair 1 da variável <code>fase</code>, e retornaria para uma tela de erro.</p>
+<p><img alt="Bloco Tela 5" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen5.png" /></p>
+<h3 id="tela-6">Tela 6</h3>
+<p>A tela 6 é responsável pelos demais enigmas. Quando a tela inicializa, a variável <code>fase</code> é resgatada, e de acordo com o seu valor é aberta a imagem do enigma. As respostas destes enigmas devem ser digitadas pelo usuário. Se a resposta dada pelo usuário estiver na lista de respostas aceitas, o usuário é enviado para a tela de acerto. Caso contrário, é tocado o Som 1, que significa erro.</p>
+<p><img alt="Bloco Tela 6" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen6.png" /></p>
+<h3 id="tela-7">Tela 7</h3>
+<p>A tela 7 é a tela de acerto. Após responder corretamente cada um dos enigmas, o usuário é enviado para esta tela, onde, ao apertar o botão Próxima Fase, é somado <code>+1</code> a global fase e o usuário é enviado novamente para a tela 3.</p>
+<p><img alt="Bloco Tela 7" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen7.png" /></p>
+<h3 id="tela-8">Tela 8</h3>
+<p>A tela 8 é a tela final, pra onde o usuário é mandado após acertar o enigma final. Aqui poderá ser visto o mapa completo do IFSC e também uma mensagem de parabéns por ter finalizado o jogo.</p>
+<p><img alt="Bloco Tela 8" src="https://github.com/PJI29001/treasure-hunt/blob/master/img/prog/prog-screen8.png" /></p>
+<h2 id="manual">Manual</h2>
+<p>O manual (este que você está lendo!) foi escrito usando a interface Atom e o Git em conjunto com o Github. As vantagens de se ter documentação versionada são diversas. Um dos motivos que nos incentivou a fazer uso do Github foi a possibilidade de hospedar sites estáticos, mas tal prática ainda está sendo domada pelo responsável pela documentação do projeto.</p></div>
         </div>
 
         <footer class="col-md-12">

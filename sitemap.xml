@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>/README/</loc>
-     <lastmod>2018-11-08</lastmod>
+     <loc>/man-dev/README/</loc>
+     <lastmod>2018-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/man-user/README/</loc>
-     <lastmod>2018-11-08</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/man-dev/README/</loc>
-     <lastmod>2018-11-08</lastmod>
+     <lastmod>2018-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
