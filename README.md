@@ -33,8 +33,8 @@ Matheus
 ## Requisitos do Aplicativo
 Para instalar este aplicativo você precisa:
 
-- Um dispositivo android x.x.x ou maior.
-- x espaço disponível no seu dispositivo
+- Um dispositivo android x.x.x ou maior;
+- x espaço disponível no seu dispositivo;
 - Desabilitar, nas configurações do dispositivo, a opção de aplicativos apenas da Play Store.
 
 
