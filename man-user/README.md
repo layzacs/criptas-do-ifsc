@@ -71,7 +71,7 @@ Longitude: -48.6331
 <br>
 Encontre a resistência equivalente docircuito abaixo:
 <br>
-![Imagem Circuito]](https://github.com/PJI29001/treasure-hunt/blob/master/img/circuito-enigma.jpeg)
+![Imagem Circuito](https://github.com/PJI29001/treasure-hunt/blob/master/img/circuito-enigma.jpeg)
 <br>
 R: 20Ω
 <br>
