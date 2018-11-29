@@ -85,7 +85,6 @@ Longitude: -48.6328
 Qual é a equação reduzida da reta que contém os pontos A (2, -5) e B (-1, 1)?
 <br>
 R: y= -2x-1
-
 <br>
 **Fase 3**  
 Todos os patrimônios do IFSC tem utilidade... mas a minha eu perdi a muito tempo. Um dia restará só hidróxido de ferro, que agora surge nas minhas entranhas. Pra sempre esquecido, sem poder sair do lugar por estar murcho, estou fadado a pertencer ao IFSC pra sempre.  
@@ -102,7 +101,6 @@ c) Neste caso o limite é sempre igual a zero
 d) Devemos fatorar numerador e o denominador e simplificar a função
 <br>
 R: letra b
-
 <br>
 **Fase 4**  
 Perigo! Não chegue perto de mim! Esse zumbido que você ouve não é o de abelhas... Mas não chegue perto, você pode acabar frito.  
@@ -120,7 +118,6 @@ elástica e cinética
 elástica e gravitacional  
 <br>
 R: Gravitacional e cinética
-
 <br>
 **Fase 5**  
 Poucos sabem que eu existo. Entre os estudantes, só os mais preocupados com a saúde já passaram por mim. Todas as terças e quintas vejo pessoas vestidas com um macacão branco... Elas deveriam me agradecer. Se não fosse por mim sujariam todo o macacão de suor.  
@@ -163,7 +160,6 @@ Longitude: -48.6335
 Um croqui além de mostrar a forma geométrica de algo sempre vai ser acompanhado de informações escritas através de letras e algarismos.Ao fazer um desenho no AutoCAD qual estilo de letra que satisfaz essa norma?
 <br>
 R:isocpeur ou isocteur
-
 <br>
 **Enigma Final**  
 Após cada fase é dada uma das frases abaixo. Para passar no enigma final o usuário deve dizer o nome do local.
@@ -185,8 +181,9 @@ Após cada fase é dada uma das frases abaixo. Para passar no enigma final o usu
 Com base nas dicas recebida nas telas de parabéns juntamente com as letras enigmas do mapa , redija abaixo qual é  esse o local do IFSC?
 <br>
 R:Biblioteca
-
 <br>
 </details>
 
 ## Agradecimentos
+
+Este aplicativo foi feito pelos alunos Layza, Emanuelle, Matheus Müller, Matheus Medeiros e Matheus Vandressen
