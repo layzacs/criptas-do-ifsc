@@ -77,7 +77,7 @@ R: 2,4 ou 2.4
 <br>
 **Fase 2**
 Nem tudo no IFSC é exatas... algumas pessoas até gostam de fazer algum esporte! Mas nem sempre o lugar perfeito está aberto... que tal sentar na beirada e esperar?  
-Latitude: 27.6083  
+Latitude: -27.6083  
 Longitude: -48.6328  
 <br>
 **Enigma 2**: GEOMETRIA ANALÍTICA
