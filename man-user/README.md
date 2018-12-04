@@ -73,7 +73,7 @@ Encontre a resistência equivalente docircuito abaixo:
 <br>
 ![Imagem Circuito](https://github.com/PJI29001/treasure-hunt/blob/master/img/circuito-enigma.jpeg)
 <br>
-R: 20Ω
+R: 2,4 ou 2.4
 <br>
 **Fase 2**
 Nem tudo no IFSC é exatas... algumas pessoas até gostam de fazer algum esporte! Mas nem sempre o lugar perfeito está aberto... que tal sentar na beirada e esperar?  
