@@ -62,3 +62,5 @@ Usamos o aplicativo [Mobile Topographer](www.) para fazer a coleta dos dados. To
 ![mapa-ifsc](mapa-ifsc.png)
 
 ## Programação
+
+A programação do aplicativo foi feita pela ferramenta MIT [AppInventor](http://appinventor.mit.edu/explore/).
